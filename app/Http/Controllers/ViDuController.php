@@ -21,4 +21,9 @@ class ViDuController extends Controller
     {
         echo"chuc nang Nhi :D";
     }
+
+    function camtu()
+    {
+        echo"camtu :D";
+    }
 }
