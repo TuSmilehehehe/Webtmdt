@@ -11,4 +11,9 @@ class ViDuController extends Controller
     {
         return view("vidu1");
     }
+    function camtu()
+    {
+        return view("Trần Phạm Cẩm Tú");
+    }
+
 }
