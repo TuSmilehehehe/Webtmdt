@@ -1,1 +1,0 @@
-Xin chao <?php echo $name?>
