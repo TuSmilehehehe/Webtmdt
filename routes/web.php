@@ -29,3 +29,4 @@ Route::get("/camtu","App\Http\Controllers\ViDuController@camtu");
 Route::get("/chucnangkimngoc","App\Http\Controllers\ViduController@chucnangkimngoc");
 
 Route::get("/camtucuatui","App\Http\Controllers\ViDuController@camtucuatui");
+Route::get("/camtucuatui1","App\Http\Controllers\ViDuController@camtucuatui1");

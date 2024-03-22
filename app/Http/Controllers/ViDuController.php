@@ -31,4 +31,10 @@ class ViDuController extends Controller
     {
         echo"day la nhanh cua tu :>";
     }
+
+    function camtucuatui1()
+    {
+        echo"day la nhanh cua tu :>";
+    }
+
 }
