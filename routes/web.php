@@ -19,5 +19,7 @@ Route::get('/', function () {
 
 Route::get("/vidu1","App\Http\Controllers\ViDuController@vidu");
 Route::get("/qlsach/theloai","App\Http\Controllers\BookController@laythongtintheloai");
-Route::get("/qlsach/thongtinsach","App\Http\Controllers\BookController@laythongtinsach");
+
+
+Route::get("/chucnangNhi","App\Http\Controllers\ViDuController@chucnangNhi");
 

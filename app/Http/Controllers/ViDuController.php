@@ -11,4 +11,8 @@ class ViDuController extends Controller
     {
         return view("vidu1");
     }
+    function chucnangNhi()
+    {
+        echo "chức năng Nhi :D";
+    }
 }
