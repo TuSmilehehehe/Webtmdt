@@ -41,4 +41,9 @@ class ViDuController extends Controller
     {
         echo "éc éc";
     }
+
+    function kimngocbranch()
+    {
+        echo "hú húu";
+    }
 }
